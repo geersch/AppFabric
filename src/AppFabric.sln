@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplication\MvcApplication.csproj", "{A544FBF9-7916-4F05-8196-979C2EC177B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGeers.Core", "CGeers.Core\CGeers.Core.csproj", "{A046B8E7-6DCE-438E-ABF2-979699A91C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A544FBF9-7916-4F05-8196-979C2EC177B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A544FBF9-7916-4F05-8196-979C2EC177B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A544FBF9-7916-4F05-8196-979C2EC177B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A544FBF9-7916-4F05-8196-979C2EC177B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A046B8E7-6DCE-438E-ABF2-979699A91C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A046B8E7-6DCE-438E-ABF2-979699A91C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A046B8E7-6DCE-438E-ABF2-979699A91C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A046B8E7-6DCE-438E-ABF2-979699A91C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
